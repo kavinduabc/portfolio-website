@@ -7,6 +7,7 @@ import { Award, Calendar, ExternalLink, Download } from "lucide-react"
 
 const certificates = [
   {
+    
     title: "Spring Boot 2.0 Essential Training",
     issuer: "Linkedin Learning",
     date: "2025 July 25",
