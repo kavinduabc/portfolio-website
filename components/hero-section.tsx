@@ -29,7 +29,7 @@ export function HeroSection() {
               <div className="absolute -inset-1 bg-gradient-to-r from-primary to-accent rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-pulse"></div>
               <div className="relative">
                 <Image
-                  src="/images/cvimage.jpg"
+                  src="/images/profile.jpeg"
                   alt="Profile Photo"
                   width={200}
                   height={200}
