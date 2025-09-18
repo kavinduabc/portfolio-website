@@ -7,9 +7,16 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Your Name - Portfolio",
-  description: "Software Developer & Researcher - Portfolio showcasing projects and research work",
-  generator: "v0.app",
+  title: "Kavindu Piumal - Portfolio",
+  description: "FullStack Developer & Software Engineer",
+  openGraph: {
+    images: [
+      {
+        url: "/images/profile.jpeg",
+        alt: "Kavindu Piumal",
+      },
+    ],
+  },
 }
 
 export default function RootLayout({
