@@ -120,21 +120,21 @@ export function ContactSection() {
                   <Mail className="h-5 w-5 text-primary" />
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-sm text-muted-foreground">your.email@example.com</p>
+                    <p className="text-sm text-muted-foreground">piumalranepura@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
                   <Phone className="h-5 w-5 text-primary" />
                   <div>
                     <p className="font-medium">Phone</p>
-                    <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-sm text-muted-foreground">+94 71 959 4197</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
                   <MapPin className="h-5 w-5 text-primary" />
                   <div>
                     <p className="font-medium">Location</p>
-                    <p className="text-sm text-muted-foreground">San Francisco, CA</p>
+                    <p className="text-sm text-muted-foreground">501/5 pitipana sourth, Homagama , Sri Lanka</p>
                   </div>
                 </div>
               </CardContent>
@@ -147,19 +147,19 @@ export function ContactSection() {
               </CardHeader>
               <CardContent className="space-y-3">
                 <Button variant="outline" className="w-full justify-start bg-transparent" asChild>
-                  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/kavinduabc" target="_blank" rel="noopener noreferrer">
                     <Github className="h-4 w-4 mr-2" />
                     GitHub
                   </a>
                 </Button>
                 <Button variant="outline" className="w-full justify-start bg-transparent" asChild>
-                  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+                  <a href="https://www.linkedin.com/in/kavindu-piumal-2ba7662a8" target="_blank" rel="noopener noreferrer">
                     <Linkedin className="h-4 w-4 mr-2" />
                     LinkedIn
                   </a>
                 </Button>
                 <Button variant="outline" className="w-full justify-start bg-transparent" asChild>
-                  <a href="mailto:your.email@example.com">
+                  <a href="mailto:piumalranepura@gmail.com">
                     <Mail className="h-4 w-4 mr-2" />
                     Email
                   </a>
